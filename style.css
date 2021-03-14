@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+}
+header {
+  background-color: aliceblue;
+  padding: 16px;
+  border-bottom: 1px solid gray;
+}
+article {
+  border: 1px solid pink;
+  padding: 24px;
+  margin-bottom: 16px;
+}
+.wrap {
+  margin: 24px;
+}
+article.double {
+  border: 4px double gray;
+}
+div.reco-person {
+  font-size: 14px;
+  color: rgb(49, 49, 49);
+  margin-top: 8px;
+  text-align: right;
+}
